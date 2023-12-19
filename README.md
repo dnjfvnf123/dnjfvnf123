@@ -15,6 +15,9 @@
     개발에 대한 넓은 시야를 가진다는 자세로 백엔드 개발을 학습하고 있습니다.
 <br>
 <br>
+------------------------------------------------------------------------------
+<br>
+<br>
     😍 Thank you for visiting 😍 <br>
     “Experience before you believe, look ahead before you run” <br>
     I'm Kim Donghwan, a new developer with that belief! <br>
