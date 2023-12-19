@@ -20,6 +20,8 @@
     I'm Kim Donghwan, a new developer with that belief! <br>
     I am majoring in spatial information engineering and software engineering, <br>
     I am learning backend development with the attitude of having a broad view of development.
+<br>
+<br>
 </p>
 
 ## 📞 Contact 📞
@@ -85,7 +87,7 @@
     <div>
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-studio&logoColor=black">
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-studio&logoColor=white">
     </div>
     <!-- Framework -->
     <p><strong>Framework</strong></p>
