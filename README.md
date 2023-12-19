@@ -22,7 +22,7 @@
 </p>
 
 ## 👨‍💻 Awards
-- Foss-4G Asia Seoul 공간정보학회 연구 논문 발표
+- 2023 Foss-4G Asia Seoul 공간정보학회 연구 논문 발표
   (우수논문상)
 - 2023 KSCE Convention 전문 - 공간정보세션 연구논문 발표
   (우수논문상)
