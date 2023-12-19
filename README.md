@@ -1,24 +1,23 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=DongHwan's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![image](https://github.com/dnjfvnf123/dnjfvnf123/assets/141292846/caee952d-f29b-44cd-be17-080b00420a44)![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=DongHwan's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-   
 <br>
 
 <p align="center">
-    방문해주셔서 감사합니다👐 <br>
+    방문해주셔서 감사합니다 😍 <br>
     “믿기전에 경험하라, 뛰기전에 앞을보라” <br>
     라는 신념을 가진 신입 개발자 김동환입니다! <br><br>
     공간정보공학과 소프트웨어공학을 전공 중이며, <br>
     개발에 대한 넓은 시야를 가지며 백엔드 개발을 학습하고 있습니다.
-
-    Thank you for visiting👐
+<br>
+    Thank you for visiting 😍
     “Experience before you believe, look ahead before you run”
     I'm Kim Donghwan, a new developer with that belief! 
     I am majoring in spatial information engineering and software engineering,
     I have a broad view of development and am learning backend development.
 </p>
 
+### :clipboard: Once I've Used
 <br>
-## 🛠 My Tech Stack
 <p align="center">
    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
