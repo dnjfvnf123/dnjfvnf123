@@ -8,14 +8,14 @@
 <br>
 
 <p align="center">
-    방문해주셔서 감사합니다 😍 <br>
+    😍 방문해주셔서 감사합니다 😍 <br>
     “믿기전에 경험하라, 뛰기전에 앞을보라” <br>
     라는 신념을 가진 신입 개발자 김동환입니다! <br>
     공간정보공학과 소프트웨어공학을 전공 중이며, <br>
     개발에 대한 넓은 시야를 가진다는 자세로 백엔드 개발을 학습하고 있습니다.
 <br>
 <br>
-    Thank you for visiting 😍 <br>
+    😍 Thank you for visiting 😍 <br>
     “Experience before you believe, look ahead before you run” <br>
     I'm Kim Donghwan, a new developer with that belief! <br>
     I am majoring in spatial information engineering and software engineering, <br>
