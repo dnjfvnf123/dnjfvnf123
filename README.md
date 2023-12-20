@@ -32,7 +32,7 @@
     <a href="mailto:easthwan123@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://https://velog.io/@dnjfvnf123">
+    <a href="https://velog.io/@dnjfvnf123">
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logoColor=white&logo=Velog"> 
     </a>
     <a href="https://www.instagram.com/nawhgnod_27">
