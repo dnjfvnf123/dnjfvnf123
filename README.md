@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2056A2&text=&animation=twinkling&height=100)
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=dfefef&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DongHwan's+GitHub!🐬" alt="Typing SVG"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=003366&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DongHwan's+GitHub!🐬" alt="Typing SVG"></a>
 </p>
 
 -------
